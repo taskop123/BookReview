@@ -1,24 +1,6 @@
-# README
+# Book Review - Ruby on Rails Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+My first Ruby on Rails project.
+This project is build following this tutorial:
+https://www.youtube.com/watch?v=AMai9EZesXY.
+I used ruby 2.7.1p83 - version and Rails 6.0.3.1 - version.
